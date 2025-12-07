@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/your/repo.git
+    repoURL: https://github.com/andymelichar/proxmox-homelab.git
     targetRevision: main
     path: apps
     directory:
